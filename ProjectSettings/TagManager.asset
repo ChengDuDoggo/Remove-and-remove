@@ -44,3 +44,9 @@ TagManager:
   - name: Character
     uniqueID: 1223565897
     locked: 0
+  - name: Background
+    uniqueID: 3939116491
+    locked: 0
+  - name: Bomber
+    uniqueID: 1481712509
+    locked: 0
