@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Character1 Idle
+  m_Name: Susan Idle
   serializedVersion: 7
   m_Legacy: 0
   m_Compressed: 0
@@ -21,13 +21,13 @@ AnimationClip:
   - serializedVersion: 2
     curve:
     - time: 0
-      value: {fileID: -1767677108, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
+      value: {fileID: -1160166770, guid: 56361e7001a0100498f692b8072725b6, type: 3}
     - time: 0.1
-      value: {fileID: 57462517, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
+      value: {fileID: -641120430, guid: 56361e7001a0100498f692b8072725b6, type: 3}
     - time: 0.2
-      value: {fileID: 634163977, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
+      value: {fileID: 1367002532, guid: 56361e7001a0100498f692b8072725b6, type: 3}
     - time: 0.3
-      value: {fileID: 45734935, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
+      value: {fileID: 1498096516, guid: 56361e7001a0100498f692b8072725b6, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -50,10 +50,10 @@ AnimationClip:
       isIntCurve: 0
       isSerializeReferenceCurve: 0
     pptrCurveMapping:
-    - {fileID: -1767677108, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
-    - {fileID: 57462517, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
-    - {fileID: 634163977, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
-    - {fileID: 45734935, guid: 5cf69d93dc6ba3548bc85b7b7667a20e, type: 3}
+    - {fileID: -1160166770, guid: 56361e7001a0100498f692b8072725b6, type: 3}
+    - {fileID: -641120430, guid: 56361e7001a0100498f692b8072725b6, type: 3}
+    - {fileID: 1367002532, guid: 56361e7001a0100498f692b8072725b6, type: 3}
+    - {fileID: 1498096516, guid: 56361e7001a0100498f692b8072725b6, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
